@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/51.1">
+  <id>com.gunmayhem3.online</id>
+  <versionNumber>0.5.0</versionNumber>
+  <filename>Gun Mayhem 3 Online</filename>
+  <name>Gun Mayhem 3 Online</name>
+  <description>Original Flash game and artwork with private friend lobbies.</description>
+  <initialWindow>
+    <content>Main.swf</content><title>Gun Mayhem 3 Online</title>
+    <visible>true</visible><width>900</width><height>600</height>
+    <minSize>750 500</minSize><renderMode>cpu</renderMode>
+  </initialWindow>
+  <supportedProfiles>extendedDesktop</supportedProfiles>
+</application>

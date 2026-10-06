@@ -1,0 +1,32 @@
+# Generated game bundles and verification output
+/build/
+/dist/
+**/bin/
+**/obj/
+**/__pycache__/
+*.pyc
+*.class
+*.log
+
+# Local SDKs and original game assets (obtain separately)
+/vendor/
+/ref/
+*.swf
+*.mp3
+*.wav
+*.otf
+*.ttf
+*.zip
+
+# Signing material, credentials, and editor state
+*.p12
+*.pfx
+*.pem
+.env
+.env.*
+!.env.example
+.vs/
+.idea/
+node_modules/
+Thumbs.db
+Desktop.ini

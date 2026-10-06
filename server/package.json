@@ -1,0 +1,1 @@
+{"name":"gun-mayhem-3-online-server","private":true,"version":"0.1.0","type":"module","engines":{"node":">=20"},"scripts":{"start":"node server.mjs","test":"node --test ../tests/server.test.mjs"}}
